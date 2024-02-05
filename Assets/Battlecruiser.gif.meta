@@ -1,0 +1,3048 @@
+fileFormatVersion: 2
+guid: fa28562a6d9e0454bb512ad678fb6b62
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 563, z: 352, w: 151}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battlecruiser_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 728
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fdd40a5ade1453ea51e7def41a6ede
+      internalID: 2050310119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 725
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b488eba6b3e4cee80a0b85071c30a6
+      internalID: -1008024867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 723
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97f358bf563742c19730eca08c07880
+      internalID: 1446569422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 720
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b3d020a0bba4b36bd35e8cf3faf7c0
+      internalID: 1874363083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 647
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de39856e5704358932a77951775f67
+      internalID: 1789358540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 643
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e18f344c68f41d7821a9d063b4d0ea
+      internalID: -177467570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 646
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9686b5af1f26144cb8fa75ebf8680762
+      internalID: 665585116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 652
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9353bac486c684bbd8695d0d24d08b31
+      internalID: 845072406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 572
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c965150d0dfe34da2bfec53f992825a2
+      internalID: 449122879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 570
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3b9036076c24def881ea80e545dcf5
+      internalID: 1717488798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 567
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3612c15e8f1f468abcd36d2826f5024
+      internalID: -220612778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_11
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 563
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d346c61aa5b49199193e05f83dce2a
+      internalID: -1279944799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 489
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845eec45f2d24bb4a7c5c3932f3c4ec
+      internalID: -438905553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 487
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bdbaa2e1f614c31bc0cfb25b3b0dcd
+      internalID: 1364561195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 489
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638564120eca940b685a3b292e8c0553
+      internalID: -352751454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 483
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed0e8b426914d4eba709151c8052f4
+      internalID: -1018327053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 402
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dfb58b7ccc3496690840891d60c687
+      internalID: 1629560116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 401
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ebc01f963f6489fbd96b17eb68eab3
+      internalID: -169022917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 393
+        width: 86
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b660fd26ad88489fa02c81d77322451
+      internalID: 323172633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_19
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 394
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db70cd48ea20d4a00a0ef40e327aa7b4
+      internalID: -1404677684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 322
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139948eeabd5f41148313b36d6930650
+      internalID: 1019565054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 320
+        width: 96
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2344f94cfd7a43f5be688c5e0fdbad0
+      internalID: -79833729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 315
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca5eb76778bd4a13be4b96c5abef426
+      internalID: -916649271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_23
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 324
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8caa192b6d844eebf4f1c8cc61c939
+      internalID: 1961580407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_24
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 246
+        width: 87
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183994831b07b466d99297d58b72e244
+      internalID: 1233550053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 237
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621c0ee3858324f11942dd3e3d162ae8
+      internalID: -1578596944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 233
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df47f3b85a99497b8e7e11dcf757f92
+      internalID: -1265228803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_27
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 232
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efc73e60018d4dac9620a7c495cd89e
+      internalID: 1820124307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_28
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 156
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2048078c875b0458d91f54d894434ded
+      internalID: 1727130610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 154
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d219b55dabf434591f77b4a22a284b
+      internalID: -1446707061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 149
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5de759b06504155beeefe4941163c6
+      internalID: -1601055327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_31
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 154
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1b53b27f10f476b821f4f4e0081bb5
+      internalID: -1579182492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 62
+        width: 109
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e357aabe43514d7abdddf7afdeb48be
+      internalID: 727271322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 116
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3530cdb79f9a44ca2ba8375120410c1f
+      internalID: -828495498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 116
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b74ab1b8d7d408693c2f3138a030dc
+      internalID: 421816396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 117
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce8321b5ac74576b7c76912503588a
+      internalID: 1948028917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 98
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111bb1a2c2a3241d098635c4fb48842f
+      internalID: 777574646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_37
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 98
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39142005894c44d1a9ba960c2c04fc4
+      internalID: -2099677464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb2ece51b45348ffb3b589d077f9fb1
+      internalID: -1596434629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 98
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cecaacf7c5c4def87aa944c3864c97
+      internalID: -1851025208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d95bfd4d9b984feea0b3761d5df7a14
+      internalID: -107308521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_41
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 98
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b76b30d4a1d34179b0cab908899c9c5
+      internalID: -1714911641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 98
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aad1a4e2c1214f999d86d173b4130a6
+      internalID: -1016990540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 98
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d227022da59174c7f81e39057fe95533
+      internalID: 39027951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 98
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49059241c80d24c64ac89852684a3075
+      internalID: 1358990810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eab4c21381d404bb17ef01fc47490a
+      internalID: 1637820481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee7483404fb4859ba5a6122db10931
+      internalID: 1018654666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_47
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 98
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3d792b2de5d4399b4c23634d788527
+      internalID: -1984008583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 98
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099fe7e9e3343430cbef34baa2e23500
+      internalID: -1623069176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 98
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b77c575781746cc8fe53409170df2a
+      internalID: 592006903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_50
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 98
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ca88b144b534caf99c8fd91a041540
+      internalID: 220642371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 98
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee9a2a7fbe3147f7878802068d94671
+      internalID: 1866771650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf02aa16211749c1af85f7e5641e792
+      internalID: -1767974450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_53
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8df2a275b8e64465af8ed9db41aca50
+      internalID: 100768443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_54
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df54d70e25918437eaa1c93c069b9a2e
+      internalID: -1041628723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_55
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 98
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d81e60256846d29bdadd7016949df
+      internalID: 900036944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_56
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 98
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7689b30953cf54b3ca3babf8b6188a0f
+      internalID: -275200071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_57
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 98
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb652ac62024614a4ba7ce6f446948
+      internalID: -1109029265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 98
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e4a5990bdd744c294dd37b138d8661
+      internalID: -1249307723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bcdc181098d49b2ad10ddfaabfeed3
+      internalID: -751907401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 80
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948cf353c0c66428095a7af937706d6b
+      internalID: -1286508414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 80
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1cfcdc1e1a24b71add62deec3df8e6
+      internalID: 735170905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_62
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 80
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaaed45e3eb441e5aa6869de2d6e71b
+      internalID: 683022118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f92de2ef124278b311c9ab2158614
+      internalID: -1509720087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 80
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19f4bbc37ab942a2ae382e28169e08d
+      internalID: -2116288337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_65
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 80
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77054fb918d1f4e6daf855fb0368cf35
+      internalID: -973705773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_66
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 80
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44adcdd23223f4709b766175150f0ac0
+      internalID: -20096133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 77
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061e5bf85d3c34afb87486be3bc11bf0
+      internalID: -958819391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_68
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 80
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c0aab036ca340a2bb7fd99532f6d37
+      internalID: -767336094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_69
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 77
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e329c57c8b3a46988bbdb634bd8b5ec
+      internalID: 939296324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 77
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ee47ffb406146ecbbe9adf2b00d09a
+      internalID: 602107795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 80
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39182df6d0fc64d1699e6f2fb364c86d
+      internalID: -996455185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_72
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 80
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1acf36a05ae5401db3c20bbda6be7ea
+      internalID: -2020084650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_73
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 80
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83ac121be30145e1affb7f27f54519c
+      internalID: 232636998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_74
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 80
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9344caeaa8144ed689d9bec8b58b99c
+      internalID: -19976251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_75
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 80
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6994a5f6f81634e5295841387cfbffb6
+      internalID: -1583614012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 27
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7464e357ab42248a6bc425ab3331b3c3
+      internalID: 972378604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_77
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 59
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2f84e6b4a574c52892a2a6b6267c95
+      internalID: 1111338060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_78
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 62
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e854d2c037b49f5bf3770bc5172701
+      internalID: 227983232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_79
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 62
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a78abebf94c944e8b1e72332c46d26e
+      internalID: 1704116405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_80
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 62
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14340cd4cd12642ad823af0fde1519ab
+      internalID: 413886845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_81
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 62
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eec82fde6a74252805d512a03b4918
+      internalID: 197381244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_82
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 62
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156f40e818b0e4d008c3597ec223de43
+      internalID: -1534715184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_83
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 62
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0075b37d3d6434b18b2092229a06a030
+      internalID: 283584362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 62
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c9aaad7767a4cf7a8bfc00754ddb5d
+      internalID: -1330511017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_85
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 62
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d74c5ee7314847b82c1cc148ca244
+      internalID: -335330798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 59
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb80c9b6f30114d579b5e5a63415fdd9
+      internalID: -1054035389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_87
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 62
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cad83087a6d4bb19a60aee890b9dfa
+      internalID: -495569513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_88
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 62
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a044a67ff8142c8bd929d62f32a3db
+      internalID: 162798249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_89
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 60
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fa4281b6b83497c9446e2d86e6e70e
+      internalID: 245417022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_90
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 62
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939f77512cc3e439e8ebcd1c6ec85855
+      internalID: -646283625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_91
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 59
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b0a6bbcf8d34080aa48712d965fcfd
+      internalID: -229638203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_92
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 62
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421e527a45b3e4772a92a0960c5f2fd4
+      internalID: -316370566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_93
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 62
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0401486a847411ea90d817a63a0a1b
+      internalID: -693210096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_94
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 62
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd414fabd2854ab19ff2bf1046b68b0
+      internalID: 1527091826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_95
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 44
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afa51d924a7649739de85cf48055014
+      internalID: 1801275289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_96
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed41f7a8e0264b6988df0b1b10ab213
+      internalID: -2129946860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_97
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 41
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f478636da29594a9aa975a96f65620fa
+      internalID: -1896537508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_98
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 41
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae18995ed4e743b5ae7fe6262b224a3
+      internalID: 1444043588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_99
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a88938b22a344b62b5292c433b1177c
+      internalID: -1603531793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_100
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 44
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582dbf52937244a3d831eb284db53600
+      internalID: -1042204987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_101
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 44
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72c0a1958c241db907d87f55409f39
+      internalID: -1822345961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_102
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 44
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc2b3e58a1547d1beeef0761e9f251
+      internalID: -338688968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_103
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 44
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3d3bf11dcb249adb2fbb8494c4ef5e
+      internalID: 1578670190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_104
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 44
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3f9058406ed4d9295805fe68027c81
+      internalID: -894693451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_105
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 44
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3710ce4e6d8cd4ed79b1269eadfa814c
+      internalID: -1744586488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_106
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9787a183743e64f25967ec86da236d95
+      internalID: -2058094578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_107
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 44
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7f8402c002143b781f2bc44bf21c94
+      internalID: -104433654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_108
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 41
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dac971cacd7e43ad9c252b778581f28
+      internalID: -1472807843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_109
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 44
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159c7517c142040a7a979a03a648ee2e
+      internalID: 1612259016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_110
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 44
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a35556560fd4e349b07fb17f63f6aa
+      internalID: -1146512484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_111
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 41
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535ee1bfcf734a4e9a57c33ab0efa00
+      internalID: 434448496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_112
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 44
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bf7bf11ea4f44a18323a2cfd9931b6
+      internalID: 1252160540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_113
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 44
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9d1bd07cffd4d7c971fc098cbaed59
+      internalID: -1808346150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_114
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 44
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f61866be74464dace1216d62dbfe5
+      internalID: 719017455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_115
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 44
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b75852781764bc082c2d4952d542be
+      internalID: 1403796268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_116
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 41
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c02f9994662f49a3bc88d601d59cb0b
+      internalID: -1501971695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_117
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 44
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb217a632a1304a2ea0bea0f1c9e708c
+      internalID: 730528787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_118
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 44
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aca65800569b421983c856174ca2b70
+      internalID: 830274088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_119
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 44
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109ec0e52d01649579fded335548bfcc
+      internalID: -1351183967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_120
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 26
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5415d86b26674cd7956caae4035a500
+      internalID: 310714200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_121
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010a235a761cc4403979eef54d49b18d
+      internalID: -857512020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 26
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87731d7e4480f4ee9bea7f47d94a9bec
+      internalID: -1926741748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 26
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a00a6f132f8401e877d9b30755b955
+      internalID: 1248898556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_124
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448f2666ba9949a1b4e07a51ac970cb
+      internalID: -840373732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_125
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 26
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b535cb11ab945d98bd563ee80e5268
+      internalID: 924716840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_126
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 26
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500437d8eb144406dad25729dd728619
+      internalID: 835412763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_127
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 26
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab19864b1cf304c16b8f846f51dfba2b
+      internalID: 5120824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9254e78f07e4371a8136ba4bbd1036
+      internalID: -515313118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_129
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc2ff0e0a8ec47a9a3004ea81637fca
+      internalID: -2063329096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_130
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 26
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb81c61b3f074b7d9fe231aecc52c27
+      internalID: -1734138417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battlecruiser_131
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 26
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e59ed132ff8e44efa369926a97b4bf6
+      internalID: 1655561379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape:
+    - - {x: -219.5, y: 160}
+      - {x: -219.5, y: 246}
+      - {x: -122.5, y: 232}
+      - {x: -124.5, y: 175}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Battlecruiser_0: 2050310119
+      Battlecruiser_1: -1008024867
+      Battlecruiser_10: -220612778
+      Battlecruiser_100: -1042204987
+      Battlecruiser_101: -1822345961
+      Battlecruiser_102: -338688968
+      Battlecruiser_103: 1578670190
+      Battlecruiser_104: -894693451
+      Battlecruiser_105: -1744586488
+      Battlecruiser_106: -2058094578
+      Battlecruiser_107: -104433654
+      Battlecruiser_108: -1472807843
+      Battlecruiser_109: 1612259016
+      Battlecruiser_11: -1279944799
+      Battlecruiser_110: -1146512484
+      Battlecruiser_111: 434448496
+      Battlecruiser_112: 1252160540
+      Battlecruiser_113: -1808346150
+      Battlecruiser_114: 719017455
+      Battlecruiser_115: 1403796268
+      Battlecruiser_116: -1501971695
+      Battlecruiser_117: 730528787
+      Battlecruiser_118: 830274088
+      Battlecruiser_119: -1351183967
+      Battlecruiser_12: -438905553
+      Battlecruiser_120: 310714200
+      Battlecruiser_121: -857512020
+      Battlecruiser_122: -1926741748
+      Battlecruiser_123: 1248898556
+      Battlecruiser_124: -840373732
+      Battlecruiser_125: 924716840
+      Battlecruiser_126: 835412763
+      Battlecruiser_127: 5120824
+      Battlecruiser_128: -515313118
+      Battlecruiser_129: -2063329096
+      Battlecruiser_13: 1364561195
+      Battlecruiser_130: -1734138417
+      Battlecruiser_131: 1655561379
+      Battlecruiser_14: -352751454
+      Battlecruiser_15: -1018327053
+      Battlecruiser_16: 1629560116
+      Battlecruiser_17: -169022917
+      Battlecruiser_18: 323172633
+      Battlecruiser_19: -1404677684
+      Battlecruiser_2: 1446569422
+      Battlecruiser_20: 1019565054
+      Battlecruiser_21: -79833729
+      Battlecruiser_22: -916649271
+      Battlecruiser_23: 1961580407
+      Battlecruiser_24: 1233550053
+      Battlecruiser_25: -1578596944
+      Battlecruiser_26: -1265228803
+      Battlecruiser_27: 1820124307
+      Battlecruiser_28: 1727130610
+      Battlecruiser_29: -1446707061
+      Battlecruiser_3: 1874363083
+      Battlecruiser_30: -1601055327
+      Battlecruiser_31: -1579182492
+      Battlecruiser_32: 727271322
+      Battlecruiser_33: -828495498
+      Battlecruiser_34: 421816396
+      Battlecruiser_35: 1948028917
+      Battlecruiser_36: 777574646
+      Battlecruiser_37: -2099677464
+      Battlecruiser_38: -1596434629
+      Battlecruiser_39: -1851025208
+      Battlecruiser_4: 1789358540
+      Battlecruiser_40: -107308521
+      Battlecruiser_41: -1714911641
+      Battlecruiser_42: -1016990540
+      Battlecruiser_43: 39027951
+      Battlecruiser_44: 1358990810
+      Battlecruiser_45: 1637820481
+      Battlecruiser_46: 1018654666
+      Battlecruiser_47: -1984008583
+      Battlecruiser_48: -1623069176
+      Battlecruiser_49: 592006903
+      Battlecruiser_5: -177467570
+      Battlecruiser_50: 220642371
+      Battlecruiser_51: 1866771650
+      Battlecruiser_52: -1767974450
+      Battlecruiser_53: 100768443
+      Battlecruiser_54: -1041628723
+      Battlecruiser_55: 900036944
+      Battlecruiser_56: -275200071
+      Battlecruiser_57: -1109029265
+      Battlecruiser_58: -1249307723
+      Battlecruiser_59: -751907401
+      Battlecruiser_6: 665585116
+      Battlecruiser_60: -1286508414
+      Battlecruiser_61: 735170905
+      Battlecruiser_62: 683022118
+      Battlecruiser_63: -1509720087
+      Battlecruiser_64: -2116288337
+      Battlecruiser_65: -973705773
+      Battlecruiser_66: -20096133
+      Battlecruiser_67: -958819391
+      Battlecruiser_68: -767336094
+      Battlecruiser_69: 939296324
+      Battlecruiser_7: 845072406
+      Battlecruiser_70: 602107795
+      Battlecruiser_71: -996455185
+      Battlecruiser_72: -2020084650
+      Battlecruiser_73: 232636998
+      Battlecruiser_74: -19976251
+      Battlecruiser_75: -1583614012
+      Battlecruiser_76: 972378604
+      Battlecruiser_77: 1111338060
+      Battlecruiser_78: 227983232
+      Battlecruiser_79: 1704116405
+      Battlecruiser_8: 449122879
+      Battlecruiser_80: 413886845
+      Battlecruiser_81: 197381244
+      Battlecruiser_82: -1534715184
+      Battlecruiser_83: 283584362
+      Battlecruiser_84: -1330511017
+      Battlecruiser_85: -335330798
+      Battlecruiser_86: -1054035389
+      Battlecruiser_87: -495569513
+      Battlecruiser_88: 162798249
+      Battlecruiser_89: 245417022
+      Battlecruiser_9: 1717488798
+      Battlecruiser_90: -646283625
+      Battlecruiser_91: -229638203
+      Battlecruiser_92: -316370566
+      Battlecruiser_93: -693210096
+      Battlecruiser_94: 1527091826
+      Battlecruiser_95: 1801275289
+      Battlecruiser_96: -2129946860
+      Battlecruiser_97: -1896537508
+      Battlecruiser_98: 1444043588
+      Battlecruiser_99: -1603531793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
